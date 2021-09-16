@@ -4,7 +4,8 @@ Natural Language Processing, usually shortened as NLP, is a branch of artificial
 The ultimate objective of NLP is to read, decipher, understand, and make sense of the human languages in a manner that is valuable.
 Most NLP techniques rely on machine learning to derive meaning from human languages.
 
-NLP tasks
+# NLP tasks
+
 Human language is filled with ambiguities that make it incredibly difficult to write software that accurately determines the intended meaning of text or voice data. Homonyms, homophones, sarcasm, idioms, metaphors, grammar and usage exceptions, variations in sentence structure—these just a few of the irregularities of human language that take humans years to learn, but that programmers must teach natural language-driven applications to recognize and understand accurately from the start, if those applications are going to be useful.
 
 Several NLP tasks break down human text and voice data in ways that help the computer make sense of what it's ingesting. Some of these tasks include the following:
